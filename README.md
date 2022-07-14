@@ -12,7 +12,7 @@ This is a calender application that stores and saves events for each hour of the
 * jQuery
 
 ## Live url
-insert url
+https://trevormangahas.github.io/third-party-api-chall/
 
 ## Contribution
 Built by Trevor Mangahas
